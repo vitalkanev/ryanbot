@@ -68,4 +68,4 @@ client.on('ready', () => {
 
 });
 
-client.login("MzQ3OTM2NDgwNzc5NDM2MDMz.DYLEXg.FvyQLCispXNN5leLpumYEOYwk5Q")
+client.login("<SECURE>");
