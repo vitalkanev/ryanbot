@@ -6,7 +6,7 @@ exists as of September 17, 2020) and, apparently, nothing happened. Developer de
 with the same name (I wasn't able to find my pull request where I decided to remove token), with token not
 included by default. Which is good, right? 😄
 
-Now, the original repository [no longer exists](https://github.com/ryanshds/ryanbot), only a new "holobot" repository with completely new commit
+Now, the original repository [no longer exists](https://github.com/ryanshds/ryanbot), only a new ["holobot"](https://github.com/ryanshds/holobot) repository with completely new commit
 history. So, I decided to archive this repository.
 
 Thank you.
